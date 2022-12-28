@@ -1,0 +1,2 @@
+Certificate request self-signature ok
+subject=C = US, ST = CA, L = Los Angeles, O = Camunited Team, OU = C.A.M, CN = Austin, emailAddress = songchimchek23712@gmail.com
